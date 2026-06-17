@@ -1,6 +1,6 @@
 # Data Scientist | ML, Causal Inference & MLOps
 
-I build end-to-end data science solutions — from data consolidation to production models that drive measurable business impact.
+I build end-to-end data science solutions - from data consolidation to production models that drive measurable business impact.
 
 ## Experience
 
